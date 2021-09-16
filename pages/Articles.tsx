@@ -21,7 +21,7 @@ const Articles = ({ NewsArr }) => {
             <a href={eachObj.url}>Explore More</a>
           </Card>
         );
-      })}
+      }) || <h1>Laoding News Please Wait!</h1>}
     </div>
   );
 };

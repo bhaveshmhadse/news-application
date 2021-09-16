@@ -7,7 +7,7 @@ const IndexPage: NextPage = () => {
     <div className='navbar'>
       <Col style={{ display: "flex" }}>
         <Image className='icon' src='Avatar.png' />
-        <h3 style={{ marginTop: "2vh" }}>News-zee</h3>
+        <h3 style={{ marginTop: "2.5vh" }}>News-zee</h3>
       </Col>
     </div>
   );
