@@ -28,10 +28,8 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## UI
-
 <h2>Desktop View</h2>
-<img src="./output/First.png" width="100%" height="auto" style="float: center;" />
+  <img src="./output/First.png" width="100%" height="auto" style="float: center;" />
 
 <h2>Hover Effect On Buttons</h2>
 <img src="./output/SecondOnHover.png" width="100%" height="auto" style="float: center;" />
