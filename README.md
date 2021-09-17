@@ -45,8 +45,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 <img src="./output/First.png" width="100%" height="auto" style="float: center;" />
 
--- [Hover Effect On Buttons]
-<img src="./output/SecondOnHover.png" width="100%" height="auto" style="float: center;" />
+- [Hover Effect On Buttons]
+  <img src="./output/SecondOnHover.png" width="100%" height="auto" style="float: center;" />
 
 <h2>Search Bar</h2>
 <img src="./output/Third.png" width="100%" height="auto" style="float: center;" />
