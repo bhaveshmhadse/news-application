@@ -44,10 +44,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ### Desktop View
 
 <img src="./output/First.png" width="100%" height="auto" style="float: center;" />
-### Hover Effect On Buttons
+
+<h2>Hover Effect On Buttons</h2>
 <img src="./output/SecondOnHover.png" width="100%" height="auto" style="float: center;" />
-### Search Bar
+<h2>Search Bar</h2>
 <img src="./output/Third.png" width="100%" height="auto" style="float: center;" />
-### Mobile View
+<h1>Mobile View</h2>
 <img src="./output/MobileViewOne.png" width="50%" height="auto" style="float: center; margin:auto;" />
 <img src="./output/MobileViewTwo.png" width="50%" height="auto" style="float: center; margin:auto;" />
