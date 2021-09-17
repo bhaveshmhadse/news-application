@@ -7,9 +7,7 @@ export default async function getArticlesFromAPI(val: string) {
   [newDate[1], newDate[2]] = [newDate[2], newDate[1]];
   const date = newDate;
 
-  let obj = { val: val };
-
-  const data = await axios.post(`https://news-zee-backend.herokuapp.com/`, obj);
+  const data = await axios.get(`https://newsapi.org/v2/everything?q=${val}&from=${date}&sortBy=publishedAt&apiKey=2522030560fd4badbf8f3c5df37671f2`);
   const arrayOfArticles = data?.data?.articles;
 
   return arrayOfArticles;

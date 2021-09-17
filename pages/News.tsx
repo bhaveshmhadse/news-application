@@ -1,5 +1,3 @@
-import type { NextPage } from "next";
-
 import { useState } from "react";
 
 import NavBar from "./NavBar";
@@ -8,7 +6,7 @@ import Articles from "./Articles";
 import Categories from "./Categories";
 import getArticlesFromAPI from "./api/API";
 
-const News: NextPage = () => {
+const News = () => {
   const [newsArr, setNewsArr] = useState([]);
 
   const handleSearch = async (val: string) => setNewsArr(await getArticlesFromAPI(val));

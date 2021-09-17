@@ -8,12 +8,7 @@ const Articles = ({ NewsArr }) => {
           <Card key={eachObj.url} className='news-card' aria-haspopup='true' type='inner'>
             <Image className='news-image' src={eachObj.urlToImage} />
             <div className='info'>
-              <Typography.Paragraph
-                ellipsis={{
-                  rows: 3,
-                  expandable: true,
-                }}
-                className='news-heading'>
+              <Typography.Paragraph ellipsis={{ rows: 3, expandable: true }} className='news-heading'>
                 {eachObj.author || "No Author"}
               </Typography.Paragraph>
               <p className='news-info'>{eachObj.description}</p>
@@ -21,7 +16,7 @@ const Articles = ({ NewsArr }) => {
             <a href={eachObj.url}>Explore More</a>
           </Card>
         );
-      }) && <h1>Loading News Please Wait!</h1>}
+      })}
     </div>
   );
 };
