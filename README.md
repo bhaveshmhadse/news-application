@@ -44,5 +44,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <img src="./output/First.png" width="100%" height="auto" style="float: center;" />
 <img src="./output/SecondOnHover.png" width="100%" height="auto" style="float: center;" />
 <img src="./output/Third.png" width="100%" height="auto" style="float: center;" />
-<img src="./output/MobileViewOne.png" width="100%" height="auto" style="float: center;" />
-<img src="./output/MobileViewTwo.png" width="100%" height="auto" style="float: center;" />
+<img src="./output/MobileViewOne.png" width="50%" height="auto" style="float: center;" />
+<img src="./output/MobileViewTwo.png" width="50%" height="auto" style="float: center;" />
