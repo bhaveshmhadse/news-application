@@ -41,8 +41,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## UI
 
+### Desktop View
+
 <img src="./output/First.png" width="100%" height="auto" style="float: center;" />
+### Hover Effect On Buttons
 <img src="./output/SecondOnHover.png" width="100%" height="auto" style="float: center;" />
+### Search Bar
 <img src="./output/Third.png" width="100%" height="auto" style="float: center;" />
+### Mobile View
 <img src="./output/MobileViewOne.png" width="50%" height="auto" style="float: center; margin:auto;" />
 <img src="./output/MobileViewTwo.png" width="50%" height="auto" style="float: center; margin:auto;" />
